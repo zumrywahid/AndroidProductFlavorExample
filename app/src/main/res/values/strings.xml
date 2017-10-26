@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProductFlavorExample</string>
+    <string name="text_value">This is Main Activity.</string>
+</resources>
